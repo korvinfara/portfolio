@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="79.4px" height="42.548px" viewBox="0 0 79.4 42.548" enable-background="new 0 0 79.4 42.548" xml:space="preserve">
+<g>
+	<path fill="#999999" d="M41.773,34.866l5.469-3.762c2.682,2.974,6.562,4.84,10.884,4.84c8.096,0,14.671-6.575,14.671-14.671
+		c0-8.095-6.575-14.671-14.671-14.671c-2.468,0-4.802,0.6-6.841,1.681l0,0L29.45,23.288l-3.734-5.442L47.469,2.868
+		C50.604,1.04,54.244,0,58.126,0C69.864,0,79.4,9.537,79.4,21.273c0,11.738-9.536,21.275-21.274,21.275
+		C51.551,42.548,45.668,39.56,41.773,34.866z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="27.582" y1="20.4971" x2="45.3383" y2="8.4929">
+		<stop  offset="0" style="stop-color:#DD0000"/>
+		<stop  offset="0.1233" style="stop-color:#D90909"/>
+		<stop  offset="0.3227" style="stop-color:#CF2121"/>
+		<stop  offset="0.5731" style="stop-color:#BD4747"/>
+		<stop  offset="0.8621" style="stop-color:#A57D7D"/>
+		<stop  offset="1" style="stop-color:#999999"/>
+	</linearGradient>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_1_)" points="33.198,23.915 21.194,24.902 26.436,14.058 
+		27.943,16.258 47.617,2.774 51.364,8.242 31.691,21.713 	"/>
+	<path fill="#999999" d="M37.626,7.682l-5.469,3.761c-2.681-2.974-6.575-4.841-10.883-4.841c-8.11,0-14.686,6.576-14.686,14.671
+		c0,8.096,6.576,14.671,14.686,14.671c2.467,0,4.788-0.599,6.828-1.68l0,0l21.834-15.005l3.734,5.442L31.931,39.68
+		c-3.134,1.826-6.776,2.868-10.656,2.868C9.523,42.548,0,33.011,0,21.273C0,9.537,9.523,0,21.274,0
+		C27.836,0,33.719,2.987,37.626,7.682z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="53.4023" y1="21.0796" x2="32.594" y2="34.5792">
+		<stop  offset="0" style="stop-color:#DD0000"/>
+		<stop  offset="0.1233" style="stop-color:#D90909"/>
+		<stop  offset="0.3227" style="stop-color:#CF2121"/>
+		<stop  offset="0.5731" style="stop-color:#BD4747"/>
+		<stop  offset="0.8621" style="stop-color:#A57D7D"/>
+		<stop  offset="1" style="stop-color:#999999"/>
+	</linearGradient>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="url(#SVGID_2_)" points="46.202,18.632 58.206,17.646 52.952,28.489 
+		51.443,26.289 31.784,39.774 28.036,34.304 47.696,20.819 	"/>
+</g>
+</svg>

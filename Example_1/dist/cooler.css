@@ -1,0 +1,21 @@
+.cooler.red {
+    background:
+        linear-gradient(#FFFFFF, #FFFFFF) content-box,
+        linear-gradient(var(--v), #CCCCCC 50%, transparent 0) 0/min(100%, (50 - var(--p))*100%),
+        linear-gradient(var(--v), transparent 50%, #DD4444 0) 0/min(100%, (var(--p) - 50)*100%),
+        linear-gradient(to right, #CCCCCC 50%, #DD4444 0);
+}
+.cooler.yellow {
+     background:
+         linear-gradient(#FFFFFF, #FFFFFF) content-box,
+         linear-gradient(var(--v), #CCCCCC 50%, transparent 0) 0/min(100%, (50 - var(--p))*100%),
+         linear-gradient(var(--v), transparent 50%, #FFA300 0) 0/min(100%, (var(--p) - 50)*100%),
+         linear-gradient(to right, #CCCCCC 50%, #FFA300 0);
+ }
+.cooler.green {
+     background:
+         linear-gradient(#FFFFFF, #FFFFFF) content-box,
+         linear-gradient(var(--v), #CCCCCC 50%, transparent 0) 0/min(100%, (50 - var(--p))*100%),
+         linear-gradient(var(--v), transparent 50%, #00BFBF 0) 0/min(100%, (var(--p) - 50)*100%),
+         linear-gradient(to right, #CCCCCC 50%, #00BFBF 0);
+ }

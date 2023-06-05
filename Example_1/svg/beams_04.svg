@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="353.5px" height="406.268px" viewBox="0 0 353.5 406.268" enable-background="new 0 0 353.5 406.268" xml:space="preserve">
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="100.9595" y1="174.3608" x2="320.6611" y2="174.3608" gradientTransform="matrix(1 0 0 -1 -100.96 349.6074)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFFFFF"/>
+	</linearGradient>
+	<path marker-end="none" marker-start="none" fill="url(#SVGID_1_)" d="M219.6,186.946L0,164.547l0.104-1l219.598,22.4
+		L219.6,186.946z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="321.5127" y1="266.6338" x2="339.3252" y2="266.6338" gradientTransform="matrix(1 0 0 -1 -100.96 349.6074)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0.6"/>
+	</linearGradient>
+	<path marker-end="none" marker-start="none" fill="url(#SVGID_2_)" d="M237.369,165.946L220.553,0.093L221.549,0l16.816,165.854
+		L237.369,165.946z"/>
+	
+		<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="333.668" y1="135.5767" x2="312.7798" y2="92.3411" gradientTransform="matrix(1 0 0 -1 -100.96 349.6074)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path marker-end="none" marker-start="none" fill="url(#SVGID_3_)" d="M211.502,259.268l-0.9-0.44l22.574-47.107l0.898,0.44
+		L211.502,259.268z"/>
+	
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="355.54" y1="41.1606" x2="454.46" y2="41.1606" gradientTransform="matrix(1 0 0 -1 -100.96 349.6074)">
+		<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0.5"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path marker-end="none" marker-start="none" fill="url(#SVGID_4_)" d="M352.604,406.268L254.58,211.079l0.896-0.453L353.5,405.814
+		L352.604,406.268z"/>
+</g>
+</svg>
